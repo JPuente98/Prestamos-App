@@ -1,0 +1,13 @@
+.container-fluid
+{
+    text-align: center;
+    font-size: large;
+    background-color: antiquewhite;
+}
+
+.container
+{
+    color: black;
+    height: 50px;
+    width: 10px;
+}
